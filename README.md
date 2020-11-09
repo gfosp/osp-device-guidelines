@@ -18,3 +18,5 @@ One question to which so far no answer exists is if the option should exist to l
 I think my brain just answered this: It should definetly be possible.<br>What's more: Apps should have an API (which by default requests access every time) that allows them to open an app of the opposite OS. OSPos could act as a bridge. (But in best conditions you wouldn't notice that OSP is acting as a bridge.)
 
 One option could be to have two chipsets in one phone. - But it would be power consuming and probably/hopefully not necessary.
+
+Anything will probably only work on a few verified high-end or new devices.
