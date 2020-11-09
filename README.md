@@ -19,4 +19,5 @@ I think my brain just answered this: It should definetly be possible.<br>What's 
 
 One option could be to have two chipsets in one phone. - But it would be power consuming and probably/hopefully not necessary.
 
-Anything will probably only work on a few verified high-end or new devices.
+Anything will probably only work on a few verified high-end or new devices.<br>
+As an example: Don't expect iPhone 6 or Samsung XCover4 to be compatible.
